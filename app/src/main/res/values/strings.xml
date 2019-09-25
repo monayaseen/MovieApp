@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyMovieApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_of_movie">Movie Title</string>
+    <string name="detail_of_movie">Movie Details</string>
+    <string name="rate">Rating</string>
+    <string name="mostpop">Most Populare</string>
+
+    <string name="release">Released Date</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="highestRate">High Rated</string>
+    <string name="sortOrder">Sortorder</string>
+    <string name="error_message">
+    No Data Yet
+    </string>
+</resources>
